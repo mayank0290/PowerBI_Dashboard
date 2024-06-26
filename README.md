@@ -1,6 +1,2 @@
 # PowerBI_Dashboard
-A dashboard created with the help of Power BI
-
-Analyzed the dataset with the help of excel
-Performed data cleanining with the help of Power BI 
-Created a dashboard and forecasting 
+Creating a sales dashboard in Power BI, emphasizing essential techniques and tools used for effective data visualization and forecasting
